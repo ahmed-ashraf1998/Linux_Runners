@@ -1,3 +1,14 @@
-The maxmuim number of character that you have to take care for string is 100 elements 
+This is Femto shell (Assignment number 1)
+$ ./myFemtoShell
+Ana Gahez ya Basha > Hello my shell
+You said: Hello my shell
+Ana Gahez ya Basha > what can you do?
+You said: what can you do?
+Ana Gahez ya Basha > You are super
+You said: You are super
+Ana Gahez ya Basha > exit
+Good Bye :)
+$
+The maxmuim number of character that you have to take care for entering string is 100 elements 
 
 
